@@ -25,7 +25,7 @@
 </p>
 
 <div align='center'>
-    <img src= 'https://github.com/Mingqi-Yuan/ADMP/blob/master/example/pulseai_logo.png'>
+    <img src= 'https://github.com/Mingqi-Yuan/YOLOv3/blob/master/example.jpg'>
 </div>
 
 
